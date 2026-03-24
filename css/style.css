@@ -41,7 +41,9 @@
 }
 
 #sidebar {
-
+  position: fixed;
+  right: 0%;
+  background-color: red;
 }
 
 #sidebar-container {
@@ -61,5 +63,5 @@
 }
 
 #sidebar ul li a:hover {
-  
+
 }
