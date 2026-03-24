@@ -1,10 +1,12 @@
 #main-navbar {
   background-color: blue;
-  
+
 }
 
 #navbar-container {
-
+  float: left;
+  width: 100%;
+  position: relative;  
 }
 
 #main-navbar ul {
