@@ -37,8 +37,9 @@
 }
 
 #onpage {
-
+  text-decoration: underline overline;
 }
+
 #sidebar {
 
 }
